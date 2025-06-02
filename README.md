@@ -1,4 +1,4 @@
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
 # Name: Sivabalan M
 # Reg No: 212224230269
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
